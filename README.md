@@ -1,6 +1,5 @@
 👋 Hey there
 
-My name is Almas and I'm a Web developer who loves to work with technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate and motivated about learning new technologies in the future.
-
+My name is Almas, and I'm a web developer who loves working with technologies. Currently, my focus is on learning everything related to web development. I'm passionate and motivated about exploring new technologies in the future.
 
 
