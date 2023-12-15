@@ -1,4 +1,4 @@
-👋 # Hey there
+# Hey there 👋
 
 My name is Almas, and I'm a Web Developer who loves working with technologies. Currently, my focus is on learning everything related to Web Development. I'm passionate and motivated about exploring new technologies in the future.
 
