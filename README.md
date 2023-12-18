@@ -1,13 +1,12 @@
 <h1 align="center">Hey there 👋</h1>
 <h3 align="center">I'm a Web Developer from Bosnia and Herzegovina, who loves working with technologies. Currently, my focus is on learning everything related to Web Development. I'm passionate and motivated about exploring new technologies in the future.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=almasdelic&label=Profile%20views&color=0e75b6&style=flat" alt="almasdelic" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=almasdelic" alt="almasdelic" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/almasdelic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/almasdelic/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/almasdelic/" target="blank"><img align="center" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="https://www.linkedin.com/in/almasdelic/" height="30" width="40" /></a>
+  
+<a href="https://www.facebook.com/almasdella" target="blank"><img align="center" src="https://camo.githubusercontent.com/c53d3619b2a6a11366e3f771162e8b7ef7b656a3dfa75aaef10f31d3aefd23eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3230424546463f267374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="https://www.facebook.com/almasdella" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/channel/UCssjHAH_by2adMwEfqnlurA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucssjhah_by2admwefqnlura" height="30" width="40" /></a>
 </p>
 
