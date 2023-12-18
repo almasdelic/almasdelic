@@ -1,12 +1,8 @@
+# Hey there 👋
+
 <h3 align="center">My name is Almas, and I'm a Web Developer who loves working with technologies. Currently, my focus is on learning everything related to Web Development. I'm passionate and motivated about exploring new technologies in the future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almasdelic&label=Profile%20views&color=0e75b6&style=flat" alt="almasdelic" /> </p>
-
-- 🌱 I’m currently learning **Django and JavaScript**
-
-- 💬 Ask me about **Python, PHP**
-
-- 📫 How to reach me **dellaxyxyxy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
