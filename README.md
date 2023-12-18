@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Almas</h1>
-<h3 align="center">I'm a Web Developer who loves working with technologies. Currently, my focus is on learning everything related to Web Development. I'm passionate and motivated about exploring new technologies in the future.</h3>
+<h1 align="center">Hey there 👋</h1>
+<h3 align="center">I'm a Web Developer from Bosnia and Herzegovina, who loves working with technologies. Currently, my focus is on learning everything related to Web Development. I'm passionate and motivated about exploring new technologies in the future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almasdelic&label=Profile%20views&color=0e75b6&style=flat" alt="almasdelic" /> </p>
 
